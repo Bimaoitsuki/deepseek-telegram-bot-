@@ -20,5 +20,5 @@ Bot Telegram berbasis Python yang memanfaatkan [DeepSeek](https://deepseek.com/)
 
 ### 1. Clone repo dan masuk direktori
 ```bash
-git clone https://github.com/username/deepseek-telegram-bot.git
+git clone https://github.com/Bimaoitsuki/deepseek-telegram-bot-
 cd deepseek-telegram-bot
